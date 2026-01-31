@@ -3,6 +3,17 @@
 Business Analysis Portfolio Project
 
 Overview
+## 📘 System Walkthrough (PDF)
+
+A professional walkthrough of the Excel Project Control System covering:
+- business context & problem statement
+- solution architecture
+- KPI definitions
+- data controls and future enhancements
+
+➡ **[View the PDF walkthrough](docs/Excel_Project_Control_System_Walkthrough.pdf)**
+
+> Note: The live Excel workbook is a commercial product and is available for private demonstration upon request.
 
 This project demonstrates how Excel can be used as a lightweight Project Control System for small construction and service businesses.
 The solution was designed using business analysis best practices, focusing on requirements, process improvement, data structure, and reporting.
