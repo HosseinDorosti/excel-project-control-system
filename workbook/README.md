@@ -1,5 +1,8 @@
-## Excel Workbook
+## Excel Workbook (Private)
 
-This folder contains a **demo version** of the Excel Project Control System.
-All data has been anonymized and simplified for portfolio purposes.
+The full Excel Project Control System is a **commercial product** and is not published publicly.
 
+A detailed system walkthrough is available here:
+➡ `/docs/Excel_Project_Control_System_Walkthrough.pdf`
+
+The live workbook can be demonstrated privately during interviews or stakeholder discussions.
