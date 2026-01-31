@@ -138,3 +138,5 @@ Each table uses a unique identifier (e.g., ProjectID) to maintain relationships 
 - KPI definition
 - Excel solution design
 
+For a visual and functional overview of the system, please refer to the PDF walkthrough in the `/docs` folder.
+
