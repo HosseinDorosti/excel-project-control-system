@@ -1,4 +1,6 @@
 ## 📚 Business Analysis Artifacts
+📄 **Full Solution Documentation (PDF)**  
+[Excel-Based Project Control System – Business Analysis & Solution Documentation](docs/Excel_Project_Control_System_Documentation.pdf)
 
 This repository includes BA deliverables demonstrating structured analysis and system thinking:
 
