@@ -9,6 +9,8 @@ This repository includes BA deliverables demonstrating structured analysis and s
 - **High-Level Data Model (ERD)**: `/docs/diagrams/data-model/`
 - **Use Case Specifications**: `/docs/use-cases/use-case-specifications.md`
 - **Requirements & Traceability**: `/docs/requirements/`
+- 📄 **Executive Summary**: `/docs/executive-summary.md`
+📘 **User Stories (Jira-style)**: `/docs/user-stories/user-stories.md`
 
 📘 **Walkthrough PDF**: `/docs/Excel_Project_Control_System_Walkthrough.pdf`
 
