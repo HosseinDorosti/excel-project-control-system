@@ -11,7 +11,7 @@ This repository includes BA deliverables demonstrating structured analysis and s
 - **Requirements & Traceability**: `/docs/requirements/`
 - 📄 **Executive Summary**: `/docs/executive-summary.md`
 📘 **User Stories (Jira-style)**: `/docs/user-stories/user-stories.md`
-
+📌 **Mock Jira Board (Illustrative)**: `/docs/jira/jira-mock-board.png`
 📘 **Walkthrough PDF**: `/docs/Excel_Project_Control_System_Walkthrough.pdf`
 
 > Note: The live Excel workbook is a commercial product and is available for private demonstration upon request.
