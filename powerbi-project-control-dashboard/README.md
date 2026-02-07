@@ -56,6 +56,8 @@ Surrogate keys (ProjectID, Date) are used to ensure clean relationships and scal
 ### Paid vs Expenses Over Time
 ![Paid vs Expenses Over Time](screenshots/paid-vs-expenses.png)
 
+## Data Model
+![Data Model](screenshots/data-model.png)
 ## Key DAX Measures
 Some highlighted measures include:
 
